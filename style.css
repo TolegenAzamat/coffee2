@@ -81,7 +81,7 @@ button{
 }
 
 .main{
-    background: url(/main.png) 50% 0%/cover no-repeat;
+    background: url(main.png) 50% 0%/cover no-repeat;
 }
 
 .banner{
@@ -140,7 +140,7 @@ button{
     height: 66px;
     border: 2px solid #fff;
     border-radius: 50%;
-    background: url(/play.png) 50%/14px 18px no-repeat;
+    background: url(play.png) 50%/14px 18px no-repeat;
     transform: translateX(-50%);
 }
 .banner-video_btn:hover{
