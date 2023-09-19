@@ -81,7 +81,10 @@ button{
 }
 
 .main{
-    background: url(main.png) 50% 0%/cover no-repeat;
+    background-image: url(main.png);
+    background-position:50% 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .banner{
